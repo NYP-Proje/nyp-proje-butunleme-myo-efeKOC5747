@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f66f02bd-41f9-4fac-93b5-c677c7bad11b" name="Changes" comment="Kişisel Finans Uygulaması %100&#10;&#10;Projemin son hali eksikler giderilmiştir" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "efeKOC5747"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NYP-Proje/nyp-proje-butunleme-myo-efeKOC5747.git",
+    "accountId": "1fc88655-d430-4f87-a142-143243252e6d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3E1pfexY3iFdfe6rZkrCxI3ldbQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.KisiselFinansSwing_40.executor": "Run",
+    "Application.KisiselFinans_100.executor": "Run",
+    "Application.KisiselFinans_40.executor": "Run",
+    "Application.KisiselFinans_60.executor": "Run",
+    "Application.KisiselFinans_80.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/kocef/IdeaProjects/kisiselfinans/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.KisiselFinans_100">
+    <configuration name="KisiselFinansSwing_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KisiselFinansSwing_40" />
+      <module name="kisiselfinans" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KisiselFinans_100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KisiselFinans_100" />
+      <module name="kisiselfinans" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KisiselFinans_40" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="KisiselFinans_40" />
+      <module name="kisiselfinans" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KisiselFinans_100" />
+        <item itemvalue="Application.KisiselFinans_40" />
+        <item itemvalue="Application.KisiselFinansSwing_40" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f66f02bd-41f9-4fac-93b5-c677c7bad11b" name="Changes" comment="" />
+      <created>1779356042111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779356042111</updated>
+      <workItem from="1779356047603" duration="2146000" />
+      <workItem from="1779358648919" duration="6908000" />
+      <workItem from="1779397016969" duration="2909000" />
+      <workItem from="1779696182535" duration="3331000" />
+      <workItem from="1779982335183" duration="1956000" />
+      <workItem from="1779984332694" duration="64000" />
+      <workItem from="1780247192190" duration="1030000" />
+      <workItem from="1781608956352" duration="3102000" />
+      <workItem from="1782154641378" duration="17000" />
+      <workItem from="1782154809486" duration="75000" />
+      <workItem from="1782154949973" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Kişisel Finans Uygulaması %40 arayüzü">
+      <option name="closed" value="true" />
+      <created>1779362772176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779362772176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Kişisel Finans Uygulaması %40 arayüzü">
+      <option name="closed" value="true" />
+      <created>1779398998176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779398998176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kişisel Finans Uygulaması %60 arayüzü &#10;&#10;İlk aşamada sadece bir görünt&quot; vardı, şimdi o görüntüye bir  (kod) ekledik butona basınca çalışan, veriyi işleyen çalışan bir uygulama haline getirdik.">
+      <option name="closed" value="true" />
+      <created>1779698088293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779698088295</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Kişisel Finans Uygulaması %80 arayüzü &#10;&#10;Hocam, projeye başlangıçta bir finans asistanı tasarlamak için temel arayüzü ve veri giriş panelini oluşturdum (%60 aşaması). Arayüzü görsel olarak stabil hale getirdikten sonra, uygulamanın çalışırken beklenmedik hatalar vermesini önlemek amacıyla ikinci aşamaya geçtim (%80 aşaması)   Bu aşamada özellikle 'Validation' (doğrulama) mantığı üzerinde çalıştım. Kullanıcının tutar kısmına yanlışlıkla harf girmesi veya boş bırakması gibi durumları try-catch blokları ile kontrol altına aldım. Bu sayede program hatalı girişlerde çökmeden, kullanıcıya anlamlı uyarılar vererek verinin doğruluğunu korumayı hedefledim. Şu an uygulama, verinin tipini ve doğruluğunu kontrol edebilen, kullanıcı hatalarına karşı dirençli bir yapıya sahip.">
+      <option name="closed" value="true" />
+      <created>1779983528826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779983528826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Kişisel Finans Uygulaması %100 &#10;&#10;Projemin son hali herşeyi hazır ve çalışır durumda">
+      <option name="closed" value="true" />
+      <created>1780248080149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780248080149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Kişisel Finans Uygulaması %100&#10;&#10;Projemin son hali eksikler giderilmiştir">
+      <option name="closed" value="true" />
+      <created>1782159285969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782159285969</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Kişisel Finans Uygulaması %100&#10;&#10;Projemin son hali eksikler giderilmiştir">
+      <option name="closed" value="true" />
+      <created>1782159317767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782159317767</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kişisel Finans Uygulaması %40 arayüzü" />
+    <MESSAGE value="Kişisel Finans Uygulaması %60 arayüzü &#10;&#10;İlk aşamada sadece bir görünt&quot; vardı, şimdi o görüntüye bir  (kod) ekledik butona basınca çalışan, veriyi işleyen çalışan bir uygulama haline getirdik." />
+    <MESSAGE value="Kişisel Finans Uygulaması %80 arayüzü &#10;&#10;Hocam, projeye başlangıçta bir finans asistanı tasarlamak için temel arayüzü ve veri giriş panelini oluşturdum (%60 aşaması). Arayüzü görsel olarak stabil hale getirdikten sonra, uygulamanın çalışırken beklenmedik hatalar vermesini önlemek amacıyla ikinci aşamaya geçtim (%80 aşaması)   Bu aşamada özellikle 'Validation' (doğrulama) mantığı üzerinde çalıştım. Kullanıcının tutar kısmına yanlışlıkla harf girmesi veya boş bırakması gibi durumları try-catch blokları ile kontrol altına aldım. Bu sayede program hatalı girişlerde çökmeden, kullanıcıya anlamlı uyarılar vererek verinin doğruluğunu korumayı hedefledim. Şu an uygulama, verinin tipini ve doğruluğunu kontrol edebilen, kullanıcı hatalarına karşı dirençli bir yapıya sahip." />
+    <MESSAGE value="Kişisel Finans Uygulaması %80 arayüzü&#10;&#10;Hocam, projeye başlangıçta bir finans asistanı tasarlamak için temel arayüzü ve veri giriş panelini oluşturdum (%60 aşaması). Arayüzü görsel olarak stabil hale getirdikten sonra, uygulamanın çalışırken beklenmedik hatalar vermesini önlemek amacıyla ikinci aşamaya geçtim (%80 aşaması)   Bu aşamada özellikle 'Validation' (doğrulama) mantığı üzerinde çalıştım. Kullanıcının tutar kısmına yanlışlıkla harf girmesi veya boş bırakması gibi durumları try-catch blokları ile kontrol altına aldım. Bu sayede program hatalı girişlerde çökmeden, kullanıcıya anlamlı uyarılar vererek verinin doğruluğunu korumayı hedefledim. Şu an uygulama, verinin tipini ve doğruluğunu kontrol edebilen, kullanıcı hatalarına karşı dirençli bir yapıya sahip." />
+    <MESSAGE value="Kişisel Finans Uygulaması %100 &#10;&#10;Projemin son hali herşeyi hazır ve çalışır durumda" />
+    <MESSAGE value="Kişisel Finans Uygulaması %100 &#10;&#10;Projemin son hali herşeyi hazır ve çalışır durumda sql ve herşey vardır" />
+    <MESSAGE value="Kişisel Finans Uygulaması %100&#10;&#10;Projemin son hali herşeyi hazır ve çalışır durumda" />
+    <MESSAGE value="Kişisel Finans Uygulaması %100&#10;&#10;Projemin son hali eksikler giderilmiştir" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kişisel Finans Uygulaması %100&#10;&#10;Projemin son hali eksikler giderilmiştir" />
+  </component>
+</project>
